@@ -1,6 +1,6 @@
 {
   "package": "battery_analysis",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-b22d486a8f4e40758b1f582b79f9deb2",
@@ -9,6 +9,14 @@
       "title": "## Package created: battery_analysis",
       "tags": [],
       "file_path": "entries/note-0001-b22d486a8f4e40758b1f582b79f9deb2.md"
+    },
+    {
+      "id": "obs-0001-5b4bf4fd79dc4e398330af75fc759a4a",
+      "type": "observation",
+      "timestamp": "2026-10-20T15:09:22Z",
+      "title": "## Battery details from \"Demo 4 [PAB] Trail Power Physical Nodes w Functions (USB Charge)\"",
+      "tags": [],
+      "file_path": "entries/obs-0001-5b4bf4fd79dc4e398330af75fc759a4a.md"
     }
   ]
 }
