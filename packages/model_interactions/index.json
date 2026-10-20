@@ -1,6 +1,6 @@
 {
   "package": "model_interactions",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-f9e0c900f47449fe9b7b9c2aad8f5795",
@@ -9,6 +9,14 @@
       "title": "## Package created: model_interactions",
       "tags": [],
       "file_path": "entries/note-0001-f9e0c900f47449fe9b7b9c2aad8f5795.md"
+    },
+    {
+      "id": "obs-0001-6c6ff4e8923a417baaa6fb830e300709",
+      "type": "observation",
+      "timestamp": "2026-10-20T15:03:39Z",
+      "title": "## Physical Architecture report: Trail Power Model (detailed)",
+      "tags": [],
+      "file_path": "entries/obs-0001-6c6ff4e8923a417baaa6fb830e300709.md"
     }
   ]
 }
